@@ -1,2 +1,2 @@
 # kurdishflag
-simple flag with html and css
+simple kurdish flag with html and css
